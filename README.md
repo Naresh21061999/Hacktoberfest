@@ -1,2 +1,3 @@
 # Hacktoberfest
-Repo for Hacktoberfest
+Naresh karela
+nareshkarela@gmail.com
